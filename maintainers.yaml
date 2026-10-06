@@ -1,7 +1,6 @@
 # Maintainer roster for KubeVela
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-
 #  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
 maintainers:
   - project_id: "kubevela"
@@ -19,12 +18,56 @@ maintainers:
       # provisioning (mailing lists, service desk, Copilot seats, etc).
       #
       # Active contributors who do not need full CNCF resource access:
-      # - name: "reviewers"
-      #   managed: false
-      #   members:
-      #     - reviewer-handle
+      - name: "reviewers"
+        managed: false
+        members:
+          - Ghostbaby
+          - chwetion
+          - yue9944882
+          - reetasingh
+          - wangwang
+          - evanli18
+          - devholic
+          - fourierr
+          - JooKS-me
+          - s4rd1nh4
+          - oeular
+          - leason00
+          - Arhell
+          - ZhongsJie96
+          - chengleqi
+          - fengshunli
+          - ramekris3163
+          - yyzxw
+          - iyear
+          - NeerajGartia21
+          - caiqi1111
+          - jerrinfrancis
+          - roguepikachu
       #
       # Former maintainers (remove this section if not applicable):
-      # - name: "emeritus"
-      #   managed: false
-      #   members: []
+      - name: "emeritus"
+        managed: false
+        members:
+          - zzxwill
+          - hanxie-crypto
+          - hongchaodeng
+          - captainroy-hy
+          - BinaryHB0916
+          - resouer
+          - ryanzhang-oss
+          - Fei-Guo
+          - szihai
+          - xiaoyuaiheshui
+          - wenxinnnnn
+          - erdun
+          - mosesyou
+          - artursouza
+          - woshilanren11
+          - wonderflow
+          - barnettZQG
+          - dhiguero
+          - Somefive
+          - jefree-cat
+          - chivalryq
+          - wangyikewxgm
