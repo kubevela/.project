@@ -20,14 +20,14 @@ maturity_log:
     date: "2023-02-27T00:00:00Z"
     issue: "https://github.com/cncf/toc/pull/890"
 
-repositories: # TODO: AUTO-DETECTED primary — please verify
+repositories:
   - url: "https://github.com/kubevela/kubevela"
     primary: true
     # tags: [core, sig-apps] # Optional
 
 website: "https://kubevela.io"
 
-artwork: "https://landscape.cncf.io/logos/kubevela.svg"
+artwork: "https://cncf-icons.com/artwork/projects/kubevela/icon/color/kubevela-icon-color.svg"
 
 adopters:
   path: "https://github.com/kubevela/community/blob/main/ADOPTERS.md"
