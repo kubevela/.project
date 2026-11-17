@@ -27,7 +27,7 @@ repositories:
 
 website: "https://kubevela.io"
 
-artwork: "https://cncf-icons.com/artwork/projects/kubevela/icon/color/kubevela-icon-color.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubevela"
 
 adopters:
   path: "https://github.com/kubevela/community/blob/main/ADOPTERS.md"
